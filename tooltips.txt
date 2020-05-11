@@ -18,10 +18,8 @@ Right click on your status bar to bring your window into master
 Super + Y opens up a graphical app menu
 Did you know you can search through the alt-tab menu
 There's an alt-tab menu
-InstantOS usage is explained on YouTube at bit.ly/instantosyt
-InstantOS only supports up to 2 monitors at the time. If you would like to use 3 or more, reach out to paperbenni@gmail.com
 Use Super+A to bring up instantASSIST, then press a key to activate one of the functions
-Super+Q brings up the shutdown menu. Enter Y to shutdown, R to reboot and S to sign out
+Super + Ctrl + Q brings up the shutdown menu. Enter Y to shutdown, R to reboot and S to sign out
 Super + Ctrl + L locks the screen. Enter your password and press enter to unlock it again
 The lock screen can be quite entertaining at times...
 
@@ -43,3 +41,11 @@ Super + Shift + W warps the mouse cursor to the middle of the focused window
 Super + P switches between the two recent layouts
 Super + Comma or Dot switches to another monitor
 Super + Shift + Comma or dot moves a window to another monitor
+
+Scrolling with the mouse wheel while hovering over the status text changes volume
+Scrolling with the mouse wheel while holding super and hovering over the status text changes brightness
+Click on the empty desktop to open the app launcher
+Click on the status text to open an app launcher
+Right clicking on the power button locks the screen
+Middle clicking on the status text opens a terminal
+Scrolling with the mouse wheel while hovering over the window title changes focus
