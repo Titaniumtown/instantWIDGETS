@@ -49,3 +49,9 @@ Click on the status text to open an app launcher
 Right clicking on the power button locks the screen
 Middle clicking on the status text opens a terminal
 Scrolling with the mouse wheel while hovering over the window title changes focus
+
+you can ask for support at discord.io/instantos
+Keep up to date with the latest instantOS news at bit.ly/paperbenniyt
+you can ask for support at reddit.com/r/instantos
+
+Hold shift while dragging a window to get window snapping like on Windows
