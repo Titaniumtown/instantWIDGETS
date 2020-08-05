@@ -8,7 +8,7 @@ Super + H or L resizes the master area
 
 Use Super + Arrow up/down keys to switch window focus
 
-Super+Tan switches between your two most recent tags
+Super+Tab switches between your two most recent tags
 
 Click on the current window name in the status bar to minimize it
 Click on a window title in the status bar to switch to it
