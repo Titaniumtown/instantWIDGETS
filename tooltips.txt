@@ -1,14 +1,14 @@
-Super+Enter opens a new Terminal
+Super + Enter opens a new Terminal
 Middle click in the top right corner to open a terminal
-Super+N opens a file explorer
-Super+R opens a cli file explorer
+Super + N opens a file explorer
+Super + R opens a cli file explorer
 
-You can use Super+Arrow Left/Right keys to switch tags
+You can use Super + Arrow Left/Right keys to switch tags
 Super + H or L resizes the master area
 
 Use Super + Arrow up/down keys to switch window focus
 
-Super+Tab switches between your two most recent tags
+Super + Tab switches between your two most recent tags
 
 Click on the current window name in the status bar to minimize it
 Click on a window title in the status bar to switch to it
@@ -18,7 +18,7 @@ Right click on your status bar to bring your window into master
 Super + Y opens up a graphical app menu
 Did you know you can search through the alt-tab menu
 There's an alt-tab menu
-Use Super+A to bring up instantASSIST, then press a key to activate one of the functions
+Use Super + A to bring up instantASSIST, then press a key to activate one of the functions
 Super + Ctrl + Q brings up the shutdown menu. Enter Y to shutdown, R to reboot and S to sign out
 Super + Ctrl + L locks the screen. Enter your password and press enter to unlock it again
 The lock screen can be quite entertaining at times...
